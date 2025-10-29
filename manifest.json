@@ -1,1 +1,8 @@
-
+{
+  "name": "geloofjedatook/video-uploader",
+  "version": "1.0.0",
+  "description": "Adds video upload functionality to Castopod episodes and emits an event for integration plugins.",
+  "author": "Geloof je dat ook Podcast",
+  "minCastopodVersion": "2.0.0",
+  "license": "MIT"
+}
