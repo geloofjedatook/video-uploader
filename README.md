@@ -4,3 +4,13 @@
 
 # video-uploader
 Castopod plugin that adds video upload support and triggers integration events
+
+# Geloof je dat ook – Video Uploader for Castopod
+
+This plugin is developed by the **Geloof je dat ook Podcast**  
+🎙️ https://geloofjedatook.nl  
+
+It allows creators to upload video files to Castopod episodes and automatically trigger integrations for YouTube, Apple Podcasts (video feed), or Spotify.
+
+---
+© Geloof je dat ook Podcast. Licensed under MIT.
